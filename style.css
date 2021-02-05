@@ -1,0 +1,102 @@
+html{
+
+  height:100%;
+}
+
+body{
+
+	 background-image: url("cafecopy.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.coffee1 {
+    position: fixed;
+    top: 2.6624068157614484vh;
+    left: 34.226190476190474vw;
+    width: 18%;
+    transform: rotate(10deg);
+}
+
+.coffee p {
+
+    display: none;
+    position: absolute;
+    top: calc(50% - 1.9169329073482428vh);
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0px;
+    padding:30px;
+    background-color:#654321;
+    color:white;
+    font-size:34px;
+    opacity:85%;
+    font-family:futura;
+
+}
+
+.coffee:hover p {
+
+    display:block;
+
+}
+
+.coffee2 {
+    position: fixed;
+    top: 14.37699680511182vh;
+    left: 13.69047619047619vw;
+    width: 15%;
+}
+
+.coffee3 {
+    position: fixed;
+    top: 10.117145899893504vh;
+    left: 63.095238095238095vw;
+    width: 16%;
+}
+
+.coffee4 {
+    position: fixed;
+    left: 3.5714285714285716vw;
+    top: 48.98828541001065vh;
+    width:20%;
+}
+
+.coffee5 {
+    position: fixed;
+    top: 63.89776357827476vh;
+    left: 39.88095238095238vw;
+    width: 16%;
+}
+
+.coffee6 {
+    position: fixed;
+     top: 37.273695420660275vh;
+    left: 69.64285714285714vw;
+    width: 25%;
+    transform: rotate(15deg);
+}
+.center{
+
+    position:absolute;
+    width:35%;
+    top: 39.059637912673054vh;
+    left:32.023809523809526vw;
+
+  }
+#button {
+
+  background-color:#654321;
+  color:#d2bd9e;
+  font-family:futura;
+  font-size: 30px;
+  position:absolute;
+  top:0vh;
+  right:0vw;
+  cursor:pointer;
+  padding:15px;
+}
+  audio{
+
+    display:none;
+  }

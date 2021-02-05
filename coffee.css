@@ -1,0 +1,72 @@
+
+body{
+
+	background-color:#d2bd9e;
+	color:#654321;
+	font-family:futura;
+	font-size:20px;
+	width:400px;
+	display:block;
+	margin:auto;
+
+	
+}
+
+
+h1{
+	color:#654321;
+	font-size:35px;
+	text-align: center;
+
+}
+
+h2{
+	color:#654321;
+	font-size:26px;
+}
+
+
+h3{
+	color:#654321;
+	font-size:26px;
+}
+
+
+
+.need{
+
+	background-color:#654321;
+	color:#d2bd9e;
+  	width: 300px;
+  	border: 15px #654321;
+  	padding: 50px;
+  	margin: 20px;
+
+}
+
+h5{
+
+	font-size:26px;
+}
+.steps{
+	
+	color:#654321;
+	margin:20px;
+}
+
+#button {
+
+  background-color:#654321;
+  color:#d2bd9e;
+  font-family:futura;
+  font-size: 30px;
+  position:absolute;
+  top:0px;
+  right:0px;
+  cursor:pointer;
+  padding:15px;
+}
+  audio{
+
+    display:none;
+  }
